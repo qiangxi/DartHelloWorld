@@ -7,7 +7,7 @@ import 'package:english_words/english_words.dart';
 class Demo01MaterialApp extends MaterialApp {
   Demo01MaterialApp()
       : super(
-            title: 'Startup Name Generator',
+            title: 'ListView demo',
             home: new RandomWords(),
             theme: new ThemeData(
               primaryColor: Colors.teal,
